@@ -1,0 +1,97 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.contuner {
+  padding: 20px 20px;
+}
+
+.contuner .box {
+  padding: 0 20px;
+  text-align: center;
+}
+
+.contuner .box .iamg {
+  width: 100%;
+  height: 600px;
+}
+
+.contuner .box .iamg img {
+  width: 100%;
+  height: 100%;
+}
+
+.contuner .box h2 {
+  font-size: 40px;
+}
+
+.contuner .box .prgrph {
+  line-height: 28px;
+  font-size: 21px;
+}
+
+.contuner .box .prgrph h3 {
+  padding-left: 60%;
+}
+.contuner .box .prgrph p {
+  line-height: 50px;
+}
+
+.contuner .box .dengr {
+  line-height: 28px;
+  font-size: 21px;
+}
+
+.contuner .box .dengr h3 {
+  padding-left: 70%;
+  transition: 0.3s;
+  cursor: pointer;
+  padding-bottom: 10px;
+}
+.contuner .box .dengr h3:hover {
+  font-size: 18px;
+  color: dimgrey;
+}
+.contuner .box .dengr p {
+  line-height: 50px;
+}
+.contuner .box .rmo {
+  line-height: 50px;
+}
+
+.contuner .box .rmo h2 {
+  color: #333;
+  font-size: 40px;
+}
+
+.contuner .box .rmo h2 span {
+  color: blue;
+  font-size: 43px;
+}
+
+.contuner .box .rmo p {
+  font-size: 20px;
+  color: rgba(51, 51, 51, 0.63);
+}
+
+.contuner .box .rmo p span {
+  color: red;
+  font-size: 30xp;
+}
+
+.contuner .box .rmo h5 {
+  font-size: 23px;
+}
+
+.contuner .box .rmo h6 {
+  font-size: 18px;
+  color: rgb(58, 58, 58);
+}
+
+.contuner .box .rmo h3 {
+  padding-left: 82%;
+}
+.contuner .box .start h4 {
+  font-size: 30px;
+}
